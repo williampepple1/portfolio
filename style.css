@@ -63,6 +63,7 @@ body {
 .myimage {
   border-radius: 1000px;
   margin-top: 40px;
+  display: none;
 }
 
 h1,
