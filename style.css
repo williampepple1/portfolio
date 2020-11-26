@@ -504,4 +504,7 @@ img {
   .myimage {
     display: none;
   }
+  .section-title {
+    margin-bottom: var(--mb-6);
+  }
 }
