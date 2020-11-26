@@ -499,3 +499,9 @@ img {
     right: 10%;
   }
 }
+
+@media (max-width: 768px) {
+  .myimage {
+    display: none;
+  }
+}
